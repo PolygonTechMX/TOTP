@@ -1,0 +1,29 @@
+{
+    "name": "TOTP++",
+    "keywords": "totp++ ,totp, Time-based One-time Password, algorithm",
+    "description": "Library to generate Time-based One-Time Passwords",
+    "license": "MIT",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/PolygonTechMX/TOTP.git"
+    },
+    "authors":
+    [
+      {
+        "name": "David Martinez",
+        "email": "dmartinez@polygontechnologies.com.mx",
+        "url": "https://www.instagram.com/daviidmart/",
+        "maintainer": true
+      }
+    ],
+    "dependencies":
+    {
+      "name": "OneWire",
+      "authors": "Paul Stoffregen",
+      "frameworks": "arduino"
+    },
+    "version": "1.0.0",
+    "frameworks": "*",
+    "platforms": "*"
+  }
