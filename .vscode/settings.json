@@ -3,6 +3,7 @@
         "string": "cpp",
         "xstring": "cpp",
         "sstream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "system_error": "cpp"
     }
 }
